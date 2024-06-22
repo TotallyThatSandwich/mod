@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "castlemod:block/blood_slab"
+    },
+    "type=double": {
+      "model": "castlemod:block/blood_planks"
+    },
+    "type=top": {
+      "model": "castlemod:block/blood_slab_top"
+    }
+  }
+}

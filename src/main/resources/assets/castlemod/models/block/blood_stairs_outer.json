@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "castlemod:block/blood_planks",
+    "side": "castlemod:block/blood_planks",
+    "top": "castlemod:block/blood_planks"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "item.castlemod.test_item": "Test Item",
+  "block.castlemod.castle_brick": "Castle Brick",
+  "block.castlemod.cracked_castle_brick": "Cracked Castle Brick",
+  "block.castlemod.chiseled_castle_brick": "Chiseled Castle Brick",
+  "block.castlemod.castle_brick_wall": "Castle Brick Wall",
+
+  "block.castlemod.blood_log": "Blood Wood Log",
+  "block.castlemod.blood_wood": "Blood Wood",
+  "block.castlemod.stripped_blood_log": "Stripped Blood Wood Log",
+  "block.castlemod.stripped_blood_wood": "Stripped Blood Wood",
+  "block.castlemod.blood_planks": "Blood Wood Planks",
+  "block.castlemod.blood_slab": "Blood Wood Slab",
+  "block.castlemod.blood_door": "Blood Wood Door",
+  "block.castlemod.blood_trapdoor": "Blood Wood Trapdoor",
+  "block.castlemod.blood_button": "Blood Wood Button",
+  "block.castlemod.blood_stairs": "Blood Wood Stairs",
+  "block.castlemod.blood_pressure_plate": "Blood Wood Pressure Plate",
+  "block.castlemod.blood_fence": "Blood Wood Fence",
+  "block.castlemod.blood_fence_gate": "Blood Wood Fence Gate",
+
+  "itemgroup.castle": "Castle Mod"
+}

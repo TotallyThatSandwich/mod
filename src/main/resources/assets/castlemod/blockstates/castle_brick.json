@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "castlemod:block/castle_brick"
+    }
+  }
+}
