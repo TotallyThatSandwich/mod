@@ -36,6 +36,9 @@ public class ModBlocks {
 	public static final Block BLOOD_PLANKS = registerBlock("blood_planks",
 		new Block(QuiltBlockSettings.copyOf(Blocks.OAK_PLANKS).strength(3f)));
 
+	public static final Block BLOOD_BOOKSHELF = registerBlock("blood_bookshelf",
+		new Block(QuiltBlockSettings.create()));
+
 	public static final Block BLOOD_SLAB = registerBlock("blood_slab",
 		new SlabBlock(QuiltBlockSettings.copyOf(Blocks.OAK_PLANKS).strength(3f)));
 
@@ -62,9 +65,7 @@ public class ModBlocks {
 		new WallBlock(QuiltBlockSettings.copyOf(Blocks.OAK_PLANKS)));
 
 	private static void addBlocksToBuildingBlocksItemGroup(FabricItemGroupEntries group) {
-		group.addItem(CASTLE_BRICK.asItem());
-		group.addItem(CRACKED_CASTLE_BRICK.asItem());
-		group.addItem(CHISELED_CASTLE_BRICK.asItem());
+
 	}
 
 	private static Block registerBlock(String name, Block block) {

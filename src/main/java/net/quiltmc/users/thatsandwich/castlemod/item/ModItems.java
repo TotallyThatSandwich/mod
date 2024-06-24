@@ -16,10 +16,9 @@ import org.quiltmc.qsl.item.setting.api.QuiltItemSettings;
 
 public class ModItems {
 
-	public static final Item TEST_ITEM = registerItem("test_item", new Item(new QuiltItemSettings()));
 
 	private static void addItemsToBuildingBlocksItemGroup(FabricItemGroupEntries group) {
-		group.addItem(TEST_ITEM);
+
 	}
 
 	private static Item registerItem(String name, Item item) {

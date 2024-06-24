@@ -34,6 +34,7 @@ public class ModItemGroups {
 				entries.addItem(ModBlocks.BLOOD_FENCE.asItem());
 				entries.addItem(ModBlocks.BLOOD_FENCE_GATE.asItem());
 				entries.addItem(ModBlocks.CASTLE_BRICK_WALL.asItem());
+				entries.addItem(ModBlocks.BLOOD_BOOKSHELF.asItem());
 			}).build());
 
 	public static void registerItemGroups() {
